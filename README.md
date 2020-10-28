@@ -11,3 +11,9 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20an
 https://gtfobins.github.io
 
 https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
+
+
+JOHN
+https://github.com/openwall/john/tree/bleeding-jumbo/doc
+https://www.abhizer.com/crack-ssh-with-john/
+https://null-byte.wonderhowto.com/how-to/crack-ssh-private-key-passwords-with-john-ripper-0302810/
