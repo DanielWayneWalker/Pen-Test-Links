@@ -60,3 +60,8 @@ https://github.com/PowerShellEmpire/PowerTools/tree/master/PowerUp (A bit old bu
 https://github.com/411Hall/JAWS (A general enumeration script)
 
 https://null-byte.wonderhowto.com/how-to/crack-ssh-private-key-passwords-with-john-ripper-0302810/
+
+
+https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys
+
+https://github.com/andrew-d/static-binaries
