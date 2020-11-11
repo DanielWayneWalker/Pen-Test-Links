@@ -65,3 +65,5 @@ https://null-byte.wonderhowto.com/how-to/crack-ssh-private-key-passwords-with-jo
 https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys
 
 https://github.com/andrew-d/static-binaries
+
+https://medium.com/@sec_for_safety/ssh-backdoor-how-to-get-a-proper-shell-on-the-victims-machine-52d28fe6dde1
