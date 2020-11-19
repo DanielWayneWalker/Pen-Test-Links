@@ -76,3 +76,6 @@ https://medium.com/@sec_for_safety/ssh-backdoor-how-to-get-a-proper-shell-on-the
 FIND STUFF
 
 find / 2>>/dev/null | grep "*.txt"
+
+
+https://gchq.github.io/CyberChef/
